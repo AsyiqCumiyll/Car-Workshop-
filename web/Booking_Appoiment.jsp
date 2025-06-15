@@ -137,7 +137,7 @@
                 <label for="carPlateNumber">Car Plate Number:</label>
                 <input type="text" id="carPlateNumber" name="carPlateNumber" placeholder="Enter car plate number" required>
                 
-                <label for="phone">phone:</label>
+                <label for="phone">phone number:</label>
                 <input type="text" id ="phone" name="phone" placeholder="Enter contact number" required>
                 
                 <label for="carModel">Car Model:</label>
